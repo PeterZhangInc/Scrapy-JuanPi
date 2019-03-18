@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+.idea/
+config/proxy.js
+yarn-error.lfalse
+*.zip
+yarn-error.log
+package-lock.json
